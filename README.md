@@ -9,7 +9,6 @@ A passionate data scientist with a knack for transforming raw data into meaningf
 
 I'm also a seasoned professional adept at the intersection of web development and machine learning. With a comprehensive background in both disciplines, I bring a unique perspective to crafting innovative solutions that seamlessly integrate robust web applications with intelligent, data-driven functionalities.
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olusegun-sikiru-378015251)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VictorLoveth8?t=IZJsPBG5xjheDBR7THmFLA&s=09)
 
